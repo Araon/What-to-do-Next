@@ -1,0 +1,3 @@
+ALTER USER 'araon' IDENTIFIED WITH mysql_native_password BY 'test'
+
+flush privileges;

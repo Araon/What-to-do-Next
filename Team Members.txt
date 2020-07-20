@@ -1,0 +1,4 @@
+Tushar Mandal (Overall Desgin)
+Shounak Chandra (Frontend)
+Subhojyoti Maity (Database Design)
+Soumik Ghosh(Backend)
